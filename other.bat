@@ -1,0 +1,1 @@
+javac -d out -classpath D:\program\maven\repository\org\quartz-scheduler\quartz\2.2.1\quartz-2.2.1.jar;D:\program\maven\repository\org\slf4j\slf4j-api\1.7.26\slf4j-api-1.7.26.jar org\quartz\core\QuartzScheduler.java
